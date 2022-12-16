@@ -1,0 +1,888 @@
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\fontawesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fyensao.webtudong8giay.com%252Fcach-phan-biet-yen-sao-va-gia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fyensao.webtudong8giay.com%252Fnhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fyensao.webtudong8giay.com%252Fyen-sao-mon-bo-duong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fyensao.webtudong8giay.com%252Fyen-sao-tinh-hoa-cua-troi-dat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://yensao.web2s.vn/wp-content/uploads/2018/01/bg-header.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\bg-header.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/cach-phan-biet-yen-sao-va-gia/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\cach-phan-biet-yen-sao-va-gia\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/cach-phan-biet-yen-sao-va-gia/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\cach-phan-biet-yen-sao-va-gia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-hong/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-hong\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-hong/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-hong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-huyet/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-huyet\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-huyet/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-huyet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-trang/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-trang\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/danh-muc/yen-trang/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\danh-muc\yen-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/nhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\nhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/nhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\nhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/chan-yen-tinh-che-100gr/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\chan-yen-tinh-che-100gr\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/chan-yen-tinh-che-100gr/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\chan-yen-tinh-che-100gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-rut-long-thuong-hang-100gr/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-rut-long-thuong-hang-100gr\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-rut-long-thuong-hang-100gr/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-rut-long-thuong-hang-100gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-loai-thuong-hang-100gr/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-loai-thuong-hang-100gr\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-loai-thuong-hang-100gr/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-loai-thuong-hang-100gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-thuong-hang-100gr/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-thuong-hang-100gr\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-thuong-hang-100gr/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-thuong-hang-100gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-trai-soi-loai-thuong-hang/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-trai-soi-loai-thuong-hang\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-tinh-che-trai-soi-loai-thuong-hang/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-tinh-che-trai-soi-loai-thuong-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-vun-tinh-che-loai-100gr/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-vun-tinh-che-loai-100gr\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/san-pham/yen-vun-tinh-che-loai-100gr/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\san-pham\yen-vun-tinh-che-loai-100gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/css/icomoon.css?ver=2.1.5
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\css\icomoon.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.eot
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.eot?
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.svg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/framework/src/fonts/icomoon.ttf
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\framework\src\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/src/css/cache.skin.css?ver=1514951124
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\src\css\cache.skin.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/mega_main_menu/src/js/frontend.js?ver=2.1.5
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\mega_main_menu\src\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.7.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.11
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner1-200x87.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner1-200x87.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner1-510x223.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner1-510x223.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner1-768x336.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner1-768x336.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner1-800x350.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner1-800x350.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner1.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner2-200x87.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner2-200x87.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner2-510x223.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner2-510x223.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner2-768x336.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner2-768x336.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner2-800x350.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner2-800x350.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/banner2.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/cropped-logo2-1-180x180.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\cropped-logo2-1-180x180.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/cropped-logo2-1-192x192.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\cropped-logo2-1-192x192.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/cropped-logo2-1-32x32.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\cropped-logo2-1-32x32.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/deliver.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\deliver.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ico-1.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ico-1.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-400x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-510x510.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-768x768.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024-800x800.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/img_20171224_214452_crop_2448x2448_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\img_20171224_214452_crop_2448x2448_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/logo2.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\logo2.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/message.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\message.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-400x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-510x510.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-768x768.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024-800x800.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_151810_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_151810_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-400x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-510x510.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-768x769.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-768x769.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024-799x800.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024-799x800.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170708_155100_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170708_155100_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-400x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-510x510.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-768x768.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024-800x800.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_205520_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_205520_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-399x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-399x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-510x511.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-510x511.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-768x770.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-768x770.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024-798x800.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024-798x800.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/psx_20170713_210610_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\psx_20170713_210610_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/usd.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\usd.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024-100x100.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024-200x200.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024-200x200.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024-247x296.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024-400x400.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024-400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024-510x510.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2018/01/ys_1024x1024.jpg
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2018\01\ys_1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2019/08/flower1.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2019\08\flower1.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-content/uploads/2019/08/flower2.png
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-content\uploads\2019\08\flower2.png
+Content Type: image/png
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://yensao.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fcach-phan-biet-yen-sao-va-gia%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fcach-phan-biet-yen-sao-va-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fnhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fnhung-kinh-nghiem-can-luu-y-khi-mua-yen-sao-nguyen-chat%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fchan-yen-tinh-che-100gr%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fchan-yen-tinh-che-100gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-rut-long-thuong-hang-100gr%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-rut-long-thuong-hang-100gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-loai-thuong-hang-100gr%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-loai-thuong-hang-100gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-thuong-hang-100gr%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-thuong-hang-100gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-trai-soi-loai-thuong-hang%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-tinh-che-trai-soi-loai-thuong-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-vun-tinh-che-loai-100gr%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fsan-pham%2Fyen-vun-tinh-che-loai-100gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fyen-sao-mon-bo-duong%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fyen-sao-mon-bo-duong%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fyen-sao-tinh-hoa-cua-troi-dat%2F
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fyensao.webtudong8giay.com%2Fyen-sao-tinh-hoa-cua-troi-dat%2F&format=xml
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/pages/163
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\pages\163
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/pages/769
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\pages\769
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/pages/773
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\pages\773
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/posts/753
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\posts\753
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/posts/755
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\posts\755
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/posts/757
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\posts\757
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/posts/759
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\posts\759
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/702
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\702
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/704
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\704
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/706
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\706
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/708
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\708
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/710
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\710
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product/736
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product\736
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product_cat/81
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product_cat\81
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product_cat/82
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product_cat\82
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/product_cat/83
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\product_cat\83
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://yensao.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://yensao.webtudong8giay.com/yen-sao-mon-bo-duong/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\yen-sao-mon-bo-duong\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/yen-sao-mon-bo-duong/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\yen-sao-mon-bo-duong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://yensao.webtudong8giay.com/yen-sao-tinh-hoa-cua-troi-dat/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\yen-sao-tinh-hoa-cua-troi-dat\index.htm
+Content Type: text/html
+
+Uri: https://yensao.webtudong8giay.com/yen-sao-tinh-hoa-cua-troi-dat/feed/
+File Name: C:\Downloaded Web Sites\yensao.webtudong8giay.com\yen-sao-tinh-hoa-cua-troi-dat\feed\index.htm
+Content Type: application/rss+xml
+
